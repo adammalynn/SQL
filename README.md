@@ -1,1 +1,1 @@
-# SQL-homework
+# SQL script
